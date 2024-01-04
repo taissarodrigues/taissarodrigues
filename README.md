@@ -2,7 +2,7 @@
 Este é o lugar onde eu abro código e quebro coisas 🤣
 
 - 🔭 &nbsp;Atualmente estou trabalhando em algo legal  :wink:
-- 🌱 &nbsp;Atualmente estou aprendendo Swift, Go
+- 🌱 &nbsp;Atualmente estou aprendendo Swift
 
 - ### ✨&nbsp; Sobre mim
 
@@ -19,7 +19,6 @@ Sou estudante de Engenharia de Telecomunicações e participei do programa IOS F
 
 <img title="Swift" alt="Swift" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png"> &nbsp; 
 <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> &nbsp; 
-<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"> &nbsp; 
 <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 
 
