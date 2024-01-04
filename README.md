@@ -3,7 +3,10 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;Atualmente estou trabalhando em algo legal  :wink:
 - 🌱 &nbsp;Atualmente estou aprendendo Swift, Go
-- ⚡ Curiosidade: I ❤️ 🐶s e Xbox Gaming (GamerTag: GKRXtreme )
+
+- ### ✨&nbsp; Sobre mim
+
+Sou estudante de Engenharia de Telecomunicações e participei do programa IOS Foundation na Apple Developer Academy
 
 
 🔗 &nbsp;**Conecte-se comigo**
@@ -12,12 +15,12 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://www.linkedin.com/in/taissa-rodrigues-07463b296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taissa-rodrigues" height="30" width="40" /></a>
 <a href="https://www.instagram.com/taissa.rodriguesv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taissa.rodriguesv" height="30" width="40" /></a>
 
-### ✨&nbsp; Sobre mim
+### Linguagens de programação
 
-Sou estudante de Engenharia de Telecomunicações
+<img title="Swift" alt="Swift" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png"> &nbsp; 
+<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> &nbsp; 
+<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"> &nbsp; 
+<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 
-**Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png" />|<img alt="swift" title="Swift" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|
 
