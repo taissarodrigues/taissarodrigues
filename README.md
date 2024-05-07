@@ -6,7 +6,7 @@
 
 - ### ✨&nbsp; Sobre mim
 
-Sou estudante de Engenharia de Telecomunicações e participei do programa IOS Foundation na Apple Developer Academy
+Sou estudante de Engenharia de Telecomunicações e Alumni IOS Foundation e Ios Developer  & Ambassador na Apple Developer Academy
 
 
 🔗 &nbsp;**Conecte-se comigo**
