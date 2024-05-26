@@ -18,7 +18,7 @@ Sou estudante de Engenharia de Telecomunicações e Alumni IOS Foundation e Ios 
 ### Linguagens de programação
 
 <img title="Swift" alt="Swift" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png"> &nbsp; 
-<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> &nbsp; 
+
 <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 
 
