@@ -15,10 +15,8 @@ Sou estudante de Engenharia de Telecomunicações e Alumni IOS Foundation e Ios 
 ### Linguagens de programação
 
 <img title="Swift" alt="Swift" width="40px"   src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png"> &nbsp; 
-
 <img title="C" alt="C" width="40px" 
 src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">   <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
 
 
