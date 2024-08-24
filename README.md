@@ -1,9 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
-- 🔭 &nbsp;Atualmente estou trabalhando em algo legal  :wink:
-- 🌱 &nbsp;Atualmente estou aprendendo Swift
-
 - ### ✨&nbsp; Sobre mim
 
 Sou estudante de Engenharia de Telecomunicações e Alumni IOS Foundation e Ios Developer  & Ambassador na Apple Developer Academy
@@ -17,9 +14,13 @@ Sou estudante de Engenharia de Telecomunicações e Alumni IOS Foundation e Ios 
 
 ### Linguagens de programação
 
-<img title="Swift" alt="Swift" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png"> &nbsp; 
+<img title="Swift" alt="Swift" width="40px"   src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png"> &nbsp; 
 
-<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<img title="C" alt="C" width="40px" 
+src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+
+<img title="Swift" alt="Swift" width="40px"   
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">   <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
 
 
 
