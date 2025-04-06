@@ -3,7 +3,7 @@
 
 - ### ✨&nbsp; About me
 
-I am a Telecommunications Engineering student and IOS Foundation Alumni and Ios Developer & Ambassador at Apple Developer Academy
+Engineering student at Instituto Federal,IOS Foundation Alumni and IOS Developer & Ambassador at Apple Developer Academy focused on mobile development 
 
 
 🔗 &nbsp;**Conecte-se comigo**
