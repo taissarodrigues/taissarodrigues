@@ -3,10 +3,10 @@
 
 - ### ✨&nbsp; About me
 
-Engineering student at Instituto Federal,IOS Foundation Alumni and IOS Developer & Ambassador at Apple Developer Academy focused on mobile development 
+Engineering student at Instituto Federal,IOS Foundation Alumni and IOS Developer & Ambassador at Apple Developer Academy,focused on mobile development 
 
 
-🔗 &nbsp;**Conecte-se comigo**
+🔗 &nbsp;**Let's connect!**
 <p align="left">
 
 <a href="https://www.linkedin.com/in/taissa-rodrigues-07463b296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taissa-rodrigues" height="30" width="40" /></a>
