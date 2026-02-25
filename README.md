@@ -1,7 +1,8 @@
 ## I'm Taissa Rodrigues  
 
 I’m an **Engineering student at Instituto Federal**, **iOS Foundation Alumni**, and **iOS Developer & Ambassador** at the **Apple Developer Academy**.  
-My work focuses on **mobile development**, with experience in **Swift**, **Flutter**.
+My work focuses on **mobile development**, with experience in **Swift**.
+
 
 
 ---
