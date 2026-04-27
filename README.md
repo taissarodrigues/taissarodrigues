@@ -1,9 +1,9 @@
 ## I'm Taissa Rodrigues  
 
 I’m an **Engineering student at Instituto Federal**, **iOS Foundation Alumni**, and **iOS Developer & Ambassador** at the **Apple Developer Academy**.  
-My work focuses on **mobile development**, with experience in **Swift** and web development, with Javascript. 
+My work focuses on **mobile development**, with experience in building applications with **Swift, SwiftUI, and Apple frameworks**.  
 
-
+Additionally, I have experience in **front-end development** using **HTML, CSS, Bootstrap, jQuery, and JavaScript**.
 
 ---
 
